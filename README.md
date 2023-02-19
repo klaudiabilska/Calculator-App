@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [Add solution URL here](https://calculatorappbilska.netlify.app/)
+- [Live Site URL:](https://calculatorappbilska.netlify.app/)
 
 
 ### Built with
@@ -12,7 +12,6 @@
 - HTML5
 - CSS
 - JavaScript
-- Mobile-first workflow
 
 
 ### What I learned
