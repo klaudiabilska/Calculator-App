@@ -2,9 +2,9 @@
 
 ![](./screenshot.png)
 
-### Links
+### Link
 
-- [Live Site URL:](https://calculatorappbilska.netlify.app/)
+- [Live Site URL](https://calculatorappbilska.netlify.app/)
 
 
 ### Built with
